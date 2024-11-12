@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="mt-8 p-8 border-t border-gray-200 justify-center md:justify-between flex flex-col md:flex-row">
       <p className="text-sm leading-loose text-center md:text-start text-gray-500 text-wrap md:mt-0">
         <span className="block md:inline-block">
-          &copy; {new Date().getFullYear()} Royal Store Computers.
+          &copy; {new Date().getFullYear()} Agri-Farmscape.
         </span>{" "}
         All rights reserved.
       </p>
