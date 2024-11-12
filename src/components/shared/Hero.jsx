@@ -7,7 +7,7 @@ export default function Hero() {
       autoPlay
       loop
       muted
-      className="absolute top-0 left-0 w-full h-full object-cover"
+      className="absolute top-0 left-0 w-full h-full object-cover brightness-50"
       style={{ width: "100vw", height: "100vh" }}
     >
       <source src={bgVid} type="video/mp4" />
