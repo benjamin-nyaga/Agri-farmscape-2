@@ -49,8 +49,8 @@ export default function Nav() {
           </Link>
         </div>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          <Link to="#" className="text-sm font-semibold text-white">
-            Log in <span aria-hidden="true">&rarr;</span>
+          <Link to="https://wa.me/+254111620447" className="text-sm font-semibold text-white">
+            Talk to Us <span aria-hidden="true">&rarr;</span>
           </Link>
         </div>
       </nav>
