@@ -39,7 +39,7 @@ export default function Nav() {
             Product
           </Link>
           <Link to="#" className="text-sm font-semibold text-white">
-            Features
+            Services
           </Link>
           <Link to="#" className="text-sm font-semibold text-white">
             Marketplace
@@ -86,7 +86,7 @@ export default function Nav() {
                     to="#"
                     className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold text-gray-900 hover:bg-gray-50"
                   >
-                    Features
+                    Services
                   </Link>
                   <Link
                     to="#"
@@ -103,10 +103,10 @@ export default function Nav() {
                 </div>
                 <div className="py-6">
                   <Link
-                    to="#"
+                    to="https://wa.me/+254111620447"
                     className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold text-gray-900 hover:bg-gray-50"
                   >
-                    Log in
+                    Talk to Us
                   </Link>
                 </div>
               </div>
