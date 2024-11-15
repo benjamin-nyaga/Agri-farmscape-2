@@ -36,13 +36,13 @@ export default function Nav() {
         </div>
         <div className="hidden lg:flex lg:gap-x-12">
           <Link to="#" className="text-sm font-semibold text-white">
-            Product
+            Home
           </Link>
           <Link to="#" className="text-sm font-semibold text-white">
             Services
           </Link>
           <Link to="#" className="text-sm font-semibold text-white">
-            Marketplace
+            Contacts
           </Link>
           <Link to="#" className="text-sm font-semibold text-white">
             Company
@@ -80,7 +80,7 @@ export default function Nav() {
                     to="#"
                     className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold text-gray-900 hover:bg-gray-50"
                   >
-                    Product
+                    Home
                   </Link>
                   <Link
                     to="#"
@@ -92,7 +92,7 @@ export default function Nav() {
                     to="#"
                     className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold text-gray-900 hover:bg-gray-50"
                   >
-                    Marketplace
+                    Contacts
                   </Link>
                   <Link
                     to="#"
