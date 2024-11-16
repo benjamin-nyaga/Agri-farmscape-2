@@ -35,22 +35,19 @@ export default function Nav() {
           </button>
         </div>
         <div className="hidden lg:flex lg:gap-x-12">
-          <Link to="#" className="text-sm font-semibold text-white">
+          <Link to="/" className="text-lg font-bold text-white">
             Home
           </Link>
-          <Link to="#" className="text-sm font-semibold text-white">
+          <Link to="/services" className="text-lg font-bold text-white">
             Services
           </Link>
-          <Link to="#" className="text-sm font-semibold text-white">
-            Contacts
-          </Link>
-          <Link to="#" className="text-sm font-semibold text-white">
-            Company
+          <Link to="/contact" className="text-lg font-bold text-white">
+            Contact Us
           </Link>
         </div>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <Link to="https://wa.me/+254111620447" className="text-sm font-semibold text-white">
-            Talk to Us <span aria-hidden="true">&rarr;</span>
+            Schedule a Call <span aria-hidden="true">&rarr;</span>
           </Link>
         </div>
       </nav>

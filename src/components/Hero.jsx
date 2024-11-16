@@ -1,5 +1,5 @@
 import React from "react";
-import bgVid from "../../assets/bgVid.mp4";
+import bgVid from "../assets/bgVid.mp4";
 
 export default function Hero() {
   return (
@@ -21,7 +21,7 @@ export default function Hero() {
           Discover!
         </button>
       </div>
-    </div>
-  );
+         
+    </div>
+  );
 }
- 
